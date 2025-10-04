@@ -1,1 +1,2 @@
 # edtechpunjab
+# Mini-LMS
